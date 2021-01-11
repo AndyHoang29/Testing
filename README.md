@@ -1,2 +1,1 @@
-# SIOUX Project S3
-
+# ElasticBeanstalk-PHP
