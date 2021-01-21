@@ -1,3 +1,3 @@
 <?php
-echo "My PHP script !";
+echo "HEllo teachers";
 ?>
